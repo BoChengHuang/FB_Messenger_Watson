@@ -32,7 +32,7 @@ Combine FB Messenger bot with Watson API.
 # Node-RED ###
 
 * Creat a Node-RED app on [Bluemix](https://console.ng.bluemix.net/docs/starters/Node-RED/nodered.html#nodered) first.
-* Copy Node-RED/FB.json
+* Copy contents in Node-RED/FB.json
 * Go to Node-RED and [import](http://developers.sensetecnic.com/article/how-to-import-a-node-red-flow/) by clipboard on menu bar.
 * See a lot of nodes on flow.
 
