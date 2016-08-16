@@ -40,14 +40,15 @@ Combine FB Messenger bot with Watson API.
 2. When msg-in http-in node will catch json data, before you handle them, you should first send status:200 back too.
 3. In Detect greetings Node, I check if we need to say greetings back to users.
 4. In switch node, we have 7 states.
-* State 1: get ticket template.
-* State 2: say greetings.
-* State 3 & 4: confirmation for ticket booking.
-* State 5: recognition of faces in an image by [Watson Visual Recognition api](https://www.ibm.com/watson/developercloud/doc/visual-recognition/).
-* State 6: other useless msg like watermark (prevent sending something to API).
-* State 7: send QA msg to NLP and Reasoning API and get result back.
+  * State 1: get ticket template.
+  * State 2: say greetings.
+  * State 3 & 4: confirmation for ticket booking.
+  * State 5: recognition of faces in an image by [Watson Visual Recognition api](https://www.ibm.com/watson/developercloud/doc/visual-recognition/).
+  * State 6: other useless msg like watermark (prevent sending something to API).
+  * State 7: send QA msg to NLP and Reasoning API and get result back.
 5. Any resut shloud be encoded in json date accoding to Messenger documentation.
 6. Finally send http request node to Messenger to complete the response.
+
 Note: any API (like Watson) need API key or `usr/pwd`. If you want use NLP or Reasoning engine please contact the authur in contribution guidelines.
 
 # How to run program ###
