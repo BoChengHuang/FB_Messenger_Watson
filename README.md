@@ -11,7 +11,7 @@ Combine FB Messenger bot with Watson API.
 
 # Preparation ###
 
-0. Read [Messengr Platform](https://developers.facebook.com/docs/messenger-platform/product-overview/setup) to know concept and flow. In this repository I demo Bot by [Botkit](https://github.com/howdyai/botkit) and [Node-RED](http://nodered.org/) seperatly (main funciton and reaction is in Node-RED version).
+0. Read [Messengr Platform](https://developers.facebook.com/docs/messenger-platform/product-overview/setup) to know concept and flow. In this repository I demo Bot by [Botkit](https://github.com/howdyai/botkit) and [Node-RED](http://nodered.org/) separately (main funciton and reaction is in Node-RED version). You can choose one to try.
 
 1. [Create a Facebook App](https://developers.facebook.com/quickstarts/?platform=web) and [Page](https://www.facebook.com/pages/create/) first.
 
