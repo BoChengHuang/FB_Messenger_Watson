@@ -1,0 +1,1 @@
+page_token=PAGE_TOKEN verify_token=TOKEN node facebook_bot.js [--lt [--ltsubdomain CUSTOM_SUBDOMAIN]]
