@@ -1,12 +1,12 @@
 # FB_Messenger_Watson
-Combine FB Messenger bot with Watson API.
+Combine FB Messenger bot with NLP & Reasoning API.
 
 [![Node.js 4.4.5](https://img.shields.io/badge/Node.js-4.4.5-orange.svg)](https://nodejs.org/en/)
 [![Platforms OS X | Windows | Linux |](https://img.shields.io/badge/Platforms-OS%20X%20%7C%20Windows%20%7C%20Linux%20-lightgray.svg)](https://nodejs.org/en/)
 
 # What is this repository for? ###
 
-* Quick summary: Combine FB Messenger bot with Watson API.
+* Quick summary: Combine FB Messenger bot with NLP & Reasoning API.
 * Version 2.0.0
 
 # Preparation ###
